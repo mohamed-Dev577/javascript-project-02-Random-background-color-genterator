@@ -45,6 +45,16 @@ random-color-generator/
 
 ---
 
+
+---
+
+## 📷 صورة من المشروع
+
+![Project Screenshot](screenshot.png)
+
+--- 
+
+
 ## ▶️ طريقة تشغيل المشروع
 
 1. قم بتحميل المشروع.
