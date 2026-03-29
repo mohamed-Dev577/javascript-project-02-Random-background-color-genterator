@@ -40,6 +40,7 @@ random-color-generator/
 │── index.html
 │── script.js
 │── README.md
+|__ screenshot.png
 
 
 ---
